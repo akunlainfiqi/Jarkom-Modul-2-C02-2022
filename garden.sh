@@ -1,0 +1,1 @@
+echo $'nameserver 192.180.3.2\nnameserver 192.180.2.2' > /etc/resolv.conf
